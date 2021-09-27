@@ -182,10 +182,10 @@
     symbol-observable "4.0.0"
     uuid "8.3.2"
 
-"@angular/common@~12.1.0":
-  version "12.1.1"
-  resolved "https://registry.yarnpkg.com/@angular/common/-/common-12.1.1.tgz#34f63b339570699e1ba6968fd0afdee0cbd66fe3"
-  integrity sha512-NnRwGMatzjthvDQ4+8tm09Ak5i27Qga8x4BdzINN1RjLmzQ0zW00Mn2AUGYEDZHt9HXVHff5stsZGqj+Ne4QJw==
+"@angular/common@~12.2.7":
+  version "12.2.7"
+  resolved "https://registry.yarnpkg.com/@angular/common/-/common-12.2.7.tgz#4cc6573fb29d32b6fe5513f6150a18a00381b9af"
+  integrity sha512-Gug5a59c4NwfmSvO9Ya7DoYjl6ndK7nDuBoPSpp6IHTlNE8FY/BOd29qEp/lYJ4cAWxVk14+lonUPs6C+Szekw==
   dependencies:
     tslib "^2.2.0"
 
@@ -7746,6 +7746,11 @@ tslint@~6.1.3:
     semver "^5.3.0"
     tslib "^1.13.0"
     tsutils "^2.29.0"
+
+tsparticles@^1.31.1:
+  version "1.35.2"
+  resolved "https://registry.yarnpkg.com/tsparticles/-/tsparticles-1.35.2.tgz#2d5ae7a1ace49168bc8f2cdf2a63b622844e1a36"
+  integrity sha512-VYiSs07jRfrSeU10sWcjl8n+O/bSeM2uERhFXVFtZmdedh1w/vMXZWdgn+unjVfkz/vusQ5ZmDkLVmn8H5hIEA==
 
 tsutils@^2.29.0:
   version "2.29.0"
